@@ -45,7 +45,7 @@ setTimeout(async () => {
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">
                             ${item.txt} (${item.cc}) — ${item.rate} грн
-                            <div id="countryFlags" style="margin-top: 10px;">${countryFlags}</div>
+                            <b id="countryFlags">${countryFlags}</b>
                         </li>
                     </ul>
                 </div>
