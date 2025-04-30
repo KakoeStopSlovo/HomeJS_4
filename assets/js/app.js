@@ -52,6 +52,8 @@ setTimeout(async () => {
             `;
         })
         .join('');
+console.log(bankData);
+console.log(countriesData);
 
-        
 }, 1000);
+
